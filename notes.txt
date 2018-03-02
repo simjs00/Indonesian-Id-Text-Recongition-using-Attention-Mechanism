@@ -1,0 +1,7 @@
+before executing main.py, rename 
+
+	DMAL-OCR_preprocessing\detector\TensorFlowDeepAutoencoder\code\ae\model_sps_20170929054409\checkpoint.txt
+
+to
+
+	DMAL-OCR_preprocessing\detector\TensorFlowDeepAutoencoder\code\ae\model_sps_20170929054409\checkpoint

@@ -1,0 +1,2 @@
+recognizer : https://github.com/da03/Attention-OCR
+detector : https://github.com/cmgreen210/TensorFlowDeepAutoencoder
